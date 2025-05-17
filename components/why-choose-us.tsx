@@ -25,7 +25,7 @@ export default function WhyChooseUs() {
 
             <ScrollReveal delay={0.2}>
               <p className="text-muted-foreground text-lg mb-10">
-                15 yıllık tarım ve ekolojik çiftçilik deneyimimizle, dünya çapında profesyonellerle çalışarak en
+                5 yıllık tarım ve ekolojik çiftçilik deneyimimizle, dünya çapında profesyonellerle çalışarak en
                 kaliteli ürünleri sunuyoruz.
               </p>
             </ScrollReveal>
